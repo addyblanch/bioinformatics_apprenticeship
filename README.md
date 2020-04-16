@@ -1,4 +1,4 @@
-# University of Nottingham Bioinformatics MRes Appreticeship
+# University of Nottingham Bioinformatics MRes Apprenticeship
 
 Module One
 Bioinformatics Methods
