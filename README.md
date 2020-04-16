@@ -1,7 +1,7 @@
 # University of Nottingham Bioinformatics MRes Appreticeship
 
 Module One
-Bioinformtics Methods
+Bioinformatics Methods
 
 Calculating differential gene expression online
 
