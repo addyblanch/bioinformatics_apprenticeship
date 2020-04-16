@@ -1,2 +1,3 @@
-# bioinformatics_appreticeship
-Test dataset links
+# University of Nottingham Bioinformatics MRes Appreticeship
+
+Test
