@@ -6,7 +6,7 @@
 
 ##**Module One - Bioinformatics Methods**
 
-*1. RNASeq Submission file*
+*1. RNASeq Submission file*  
 *2. RNASeq Genome file*
 
 Calculating differential gene expression online
@@ -17,7 +17,7 @@ Ge, S.X., Son, E.W. & Yao, R. iDEP: an integrated web application for differenti
 
 ##**Module Two - Introduction to Statistics**
 
-*1. Test datasets*
+*1. Test datasets*  
 *2. Guide to SPSS*
 
 ##**Module Three - Programming in Python**
