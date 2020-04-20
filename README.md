@@ -1,5 +1,7 @@
 # University of Nottingham Bioinformatics MRes Apprenticeship
 
+![](misc/Bioinformatics.jpg)
+
 https://www.nottingham.ac.uk/vet/study-with-us/degree-apprenticeships/level-7-bioinformatics-scientist-degree-apprenticeship.aspx
 
 Module One
