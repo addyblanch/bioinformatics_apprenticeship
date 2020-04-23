@@ -8,8 +8,13 @@
 
 *1. RNASeq Submission file*  
 *2. RNASeq Genome file*
+*3. RNASeq Dataset*
 
-Calculating differential gene expression online
+
+Data  
+https://figshare.com/s/109c4c53b42a65e6e74d  
+
+For calculating differential gene expression online
 
 http://bioinformatics.sdstate.edu/idep/
 
