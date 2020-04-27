@@ -7,7 +7,7 @@
 ### **Module One - Bioinformatics Methods**
 
 *1. RNASeq Submission file*  
-*2. RNASeq Genome file*
+*2. RNASeq Genome file*  
 *3. RNASeq Dataset*
 
 
