@@ -14,6 +14,12 @@
 Data  
 https://figshare.com/s/109c4c53b42a65e6e74d  
 
+Methodology  
+
+https://combine-lab.github.io/salmon/getting_started/  
+
+Patro, R., Duggal, G., Love, M. I., Irizarry, R. A., & Kingsford, C. (2017). Salmon provides fast and bias-aware quantification of transcript expression. Nature Methods
+
 For calculating differential gene expression online
 
 http://bioinformatics.sdstate.edu/idep/
